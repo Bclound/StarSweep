@@ -169,7 +169,7 @@ export function Dashboard({ authFailed = false }: { authFailed?: boolean }) {
         <div className="brand">
           <Github size={24} aria-hidden="true" />
           <div>
-            <h1>GitHub Star Manager</h1>
+            <h1>StarSweep</h1>
             <span>{repositories.length} starred repositories loaded</span>
           </div>
         </div>

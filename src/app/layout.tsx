@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "GitHub Star Manager",
+  title: "StarSweep",
   description: "Review and batch unstar GitHub repositories safely."
 };
 

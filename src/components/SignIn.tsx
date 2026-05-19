@@ -7,7 +7,7 @@ export function SignIn({ error }: { error?: string }) {
         <div className="signin-mark">
           <Github size={34} aria-hidden="true" />
         </div>
-        <h1>GitHub Star Manager</h1>
+        <h1>StarSweep</h1>
         <p>
           Review your starred repositories, select the ones you no longer need, and unstar them
           in a controlled batch.
