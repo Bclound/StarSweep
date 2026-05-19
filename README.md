@@ -4,6 +4,8 @@ Clean up years of GitHub stars without the panic button.
 
 StarSweep is a focused web app for reviewing, filtering, and safely batch unstarring GitHub repositories. It is built for people with hundreds of starred projects who want a calm way to decide what still matters.
 
+[Live Demo](https://github-unstar.vercel.app)
+
 ![StarSweep screenshot](public/screenshot.png)
 
 ## Why StarSweep
