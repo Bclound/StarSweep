@@ -14,17 +14,6 @@ StarSweep gives you a safer review surface: load everything, filter aggressively
 
 ## Product Screens
 
-The repository includes a signed-out screenshot at `public/screenshot.png`.
-
-For the best GitHub README preview, add authenticated product screenshots with these filenames:
-
-```text
-public/dashboard.png
-public/confirm-unstar.png
-```
-
-Then this section will render the full workflow:
-
 | Review stars | Confirm unstar |
 | --- | --- |
 | ![StarSweep dashboard](public/dashboard.png) | ![Confirm unstar dialog](public/confirm-unstar.png) |
